@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Android Software Engineer since 2016.
 
-### More Information
+Currently I'm a part of an Android Platform team at Revolut<br>
 
-A place to include any other types of information that you'd like to include about yourself.
+### Talks given 
+//todo
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
