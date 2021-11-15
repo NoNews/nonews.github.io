@@ -22,7 +22,17 @@ Currently I'm a part of an Android Platform team at Revolut<br>
 * 13.11 Mobius: Badass data source: Offline-mode in a few lines of code ([Video](https://www.youtube.com/watch?v=PGbzchLBvL4), Slides)
 * 18.09 Yandex Meetup: Is it possible to survive without MVP/MVVM/MVI? ([Video](https://www.youtube.com/watch?v=YwMdge6ze0s))
 * 4.08 Android Academy: Introduction to Jetpack Startup and new Activity Result API ([Video](https://www.youtube.com/watch?v=8hZLlXNZo_o))
+* Podlodka: RecyclerViewBased Architecture
 
 ### 2019
 
+* 21.09 Mobifest: Unidirectional Android Architecture ([Video](https://www.youtube.com/watch?v=IFj-ptrQ6ho&))
+* 20.09 Android Academy: Advanced Architecture ([Video](https://www.youtube.com/watch?v=in0FUAbYaIU&t=1s))
+* 08.08 RSCONF: UX as a developer's responsibility ([Video](https://www.youtube.com/watch?v=muqcNAVJuvc))
+* 09.07 Google: UX panel discussion ([Video](https://www.youtube.com/watch?v=Xf1zLON2aKc))
+* 
+
+
 ### 2018
+
+
