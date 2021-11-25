@@ -14,7 +14,7 @@ Currently I'm a part of an Android Platform team at Revolut<br>
 ### 2021
 
 * 15.11 Android Academy: UI testing adoption: Problems & Solving ([Video](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h))
-* 28.10 Droidcon London: Where and how to run UI tests? (Video, [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021)
+* 28.10 Droidcon London: Where and how to run UI tests? ([Video](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021))
 * 20.04 Podlodka Crew: RxJava and Kotlin Flow on maximum (Video, Slides) 
 
 
