@@ -41,8 +41,33 @@ I got into software development thanks to people who are actively sharing knowle
 
 
 ### 2018
+* 20.11 AndroidAcademy: Android Architecture ([Video](https://www.youtube.com/watch?v=0sxsedFtqaw&list=PLjLCGE4bVpHChlptwNJW3is1lvO5wxFBu&index=10))
+* 10.11 Let's put our attention to details, Tomsk ([Video](https://www.youtube.com/watch?v=WI2MGdudN8A))
+* 24.10 Android Academy: How to Network ([Video](https://www.youtube.com/watch?v=IaPhFYx-3uU&))
+* 31.10 Kaspersky Android Night: How to work and live at the same time? ([Video](https://www.youtube.com/watch?v=Gcdy0lvz4nY&t=8354s))
+* 30.05 Let's put our attention to details ([Video](https://www.youtube.com/watch?v=B5ifTl1E1Sc))
+* 16.02 Freemarker: Make your routine easier ([Video](https://www.youtube.com/watch?v=H-gRJ3xsan0&t=45s))
 
 ## Posts
+* UI Testing CookBook: Sharing ui components among tests
+ ([Link](https://android-ui-testing.github.io/Cookbook/practices/shared_test_components/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Page Object ([Link](https://android-ui-testing.github.io/Cookbook/practices/page_object/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Flakiness ([Link](https://android-ui-testing.github.io/Cookbook/practices/flakiness/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI testing CookBook: How to deal with Network? ([Link](https://android-ui-testing.github.io/Cookbook/practices/network/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Emulator setup ([Link](https://android-ui-testing.github.io/Cookbook/practices/emulator_setup/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Emulator vs Real Device ([Link](https://android-ui-testing.github.io/Cookbook/practices/emulator_vs_real_device/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Test Runners Review ([Link](https://android-ui-testing.github.io/Cookbook/practices/test_runners_review/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: State clearing ([Link](https://android-ui-testing.github.io/Cookbook/practices/state_clearing/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Ui testing or Screenshot testing? ([Link](https://android-ui-testing.github.io/Cookbook/basics/ui_tests_vs_snapshot_tests/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Screenshot testing basics ([Link](https://android-ui-testing.github.io/Cookbook/basics/screenshot_testing/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: UI testing basics ([Link](https://android-ui-testing.github.io/Cookbook/basics/ui_testing/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Instrumented testing ([Link](https://android-ui-testing.github.io/Cookbook/basics/instrumented_testing_basics/), co-author with Sergio Sastre & Dmitry Movchan)
+* UI Testing CookBook: Testing theory ([Link](https://android-ui-testing.github.io/Cookbook/basics/testing_theory/), co-author with Sergio Sastre & Dmitry Movchan)
+* ProAndroidDev: How RxJava chain actually works ([Link](https://proandroiddev.com/how-rxjava-chain-actually-works-2800692f7e13))
+* ProAndroidDev: All you need to know about ArrayMap & SparseArray ([Link](https://proandroiddev.com/all-you-need-to-know-about-arraymap-sparsearray-49759c2ecbf9))
+* ProAndroidDev: Anatomy of analytics from Google ([Link](https://proandroiddev.com/anatomy-of-analytics-from-google-e107fff107ab), co-author)
+* Habr: Android Academy: Now in Moscow! (RUS) ([Link](https://habr.com/ru/post/420573/))
+* Habr: How did I become Android Engineer (RUS)([Link](https://habr.com/ru/post/328888/))
 
 ## Open-source
 
