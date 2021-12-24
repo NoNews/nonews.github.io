@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Android Software Engineer since 2016.
+Hi.
 
-Currently I'm a part of an Android Platform team at Revolut<br>
+I’m Alexey, Android Software Engineer since 2016.
+I work at Revolut, where I responsible for a platform-specific domain: Build time, CI/CD, testing tools and common approaches & processes.
+Prevously, I was working at Kaspresky.
+
+In my spare time, I like to be a part of Android community: To speak at the different conferences/meetups, write blog posts and organise courses.
+
 
 
 ## Talks
@@ -37,5 +42,9 @@ Currently I'm a part of an Android Platform team at Revolut<br>
 
 
 ### 2018
+
+## Posts
+
+## Open-source
 
 
