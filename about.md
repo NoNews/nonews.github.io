@@ -18,8 +18,8 @@ I got into software development thanks to people who are actively sharing knowle
 ### 2021
 
 * [04.12 Ya Talks: Where and how to run UI tests](https://www.youtube.com/watch?v=0AQlKbskhkM&t=4256s), [Slides](https://speakerdeck.com/nonews/gdie-i-kak-proghoniat-ui-tiesty)
-* [15.11 Android Academy: UI testing adoption: Problems & Solving](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h))
-* [28.10 Droidcon London: Where and how to run UI tests?](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021))
+* [15.11 Android Academy: UI testing adoption: Problems & Solving](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h)
+* [28.10 Droidcon London: Where and how to run UI tests?](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021)
 * 20.04 Podlodka Crew: RxJava and Kotlin Flow on maximum
 
 
@@ -27,7 +27,7 @@ I got into software development thanks to people who are actively sharing knowle
 * [13.11 Mobius: Badass data source: Offline-mode in a few lines of code](https://www.youtube.com/watch?v=PGbzchLBvL4)
 * [18.09 Yandex Meetup: Is it possible to survive without MVP/MVVM/MVI?](https://www.youtube.com/watch?v=YwMdge6ze0s)
 * [04.08 Android Academy: Introduction to Jetpack Startup and new Activity Result API](https://www.youtube.com/watch?v=8hZLlXNZo_o)
-* Podlodka: RecyclerViewBased Architecture
+* [12.04 Podlodka: RecyclerViewBased Architecture](https://www.youtube.com/watch?v=PWpYBqr1u0w&list=PLNSmyatBJig5V7DxiS7gpomMO7mfwEo_B&index=11)
 
 ### 2019
 
@@ -43,8 +43,8 @@ I got into software development thanks to people who are actively sharing knowle
 ### 2018
 * [20.11 AndroidAcademy: Android Architecture](https://www.youtube.com/watch?v=0sxsedFtqaw&list=PLjLCGE4bVpHChlptwNJW3is1lvO5wxFBu&index=10)
 * [10.11 Let's put our attention to details, Tomsk](https://www.youtube.com/watch?v=WI2MGdudN8A)
-* [24.10 Android Academy: How to Network](https://www.youtube.com/watch?v=IaPhFYx-3uU&)
 * [31.10 Kaspersky Android Night: How to work and live at the same time?](https://www.youtube.com/watch?v=Gcdy0lvz4nY&t=8354s)
+* [24.10 Android Academy: How to Network](https://www.youtube.com/watch?v=IaPhFYx-3uU&)
 * [30.05 Let's put our attention to details](https://www.youtube.com/watch?v=B5ifTl1E1Sc)
 * [16.02 Freemarker: Make your routine easier](https://www.youtube.com/watch?v=H-gRJ3xsan0&t=45s)
 
