@@ -20,7 +20,7 @@ I got into software development thanks to people who are actively sharing knowle
 * [04.12 Ya Talks: Where and how to run UI tests](https://www.youtube.com/watch?v=0AQlKbskhkM&t=4256s), [Slides](https://speakerdeck.com/nonews/gdie-i-kak-proghoniat-ui-tiesty)
 * [15.11 Android Academy: UI testing adoption: Problems & Solving](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h)
 * [28.10 Droidcon London: Where and how to run UI tests?](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021)
-* 20.04 Podlodka Crew: RxJava and Kotlin Flow on maximum
+* [20.04 Podlodka Crew: RxJava and Kotlin Flow on maximum](https://www.youtube.com/watch?v=rzWsDfOfBb0)
 
 
 ### 2020
