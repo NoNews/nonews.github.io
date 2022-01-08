@@ -10,8 +10,8 @@ permalink: /courses/
 
 ## Android Academy: Fundamentals
 <br> **Period:** SEP 2018 - DEC 2018
-<br>**Role:** Main organizer _(together with Yonatan Levin, Eugene Matsyik, Alexander Blinov, Sergey Ryabov)_
-<br>**Description:** 12 offline lections about Android Development focusing for beginners.
+<br>**Role:** Main organizer, lector & mentor _(together with Yonatan Levin, Eugene Matsyik, Alexander Blinov, Sergey Ryabov)_
+<br>**Description:** Beginner-oriented free course, 12 offline lectures with homework assignments. Personally, more than 400 people attended our course, most of them became Android developers 
 <br><br>[YouTube Link](https://www.youtube.com/playlist?list=PLjLCGE4bVpHChlptwNJW3is1lvO5wxFBu)
 
 
