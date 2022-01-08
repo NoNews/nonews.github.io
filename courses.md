@@ -6,12 +6,17 @@ permalink: /courses/
 ---
 
 ## Android Academy: Advanced
+<br> **Period:** AUG 2019 - OCT 2019
+<br>**Role:** Main organizer, lector & mentor _(together with Yonatan Levin, Dmitry Movchan Alexander Blinov, Alyona Maniykhina)_
+<br>**Description:** _Free course, oriented on Junior/Middle/Senior Android Engineers. 5 offline lectures with homework assignments. In person, more than 200 people attended_
+<br><br>[YouTube Link](https://www.youtube.com/playlist?list=PLjLCGE4bVpHBZMTldiMBViySR71w577P2)
+
 
 
 ## Android Academy: Fundamentals
 <br> **Period:** SEP 2018 - DEC 2018
 <br>**Role:** Main organizer, lector & mentor _(together with Yonatan Levin, Eugene Matsyik, Alexander Blinov, Sergey Ryabov)_
-<br>**Description:** Beginner-oriented free course, 12 offline lectures with homework assignments. Personally, more than 400 people attended our course, most of them became Android developers 
+<br>**Description:** _Beginner-oriented free course, 12 offline lectures with homework assignments. In person, more than 400 people attended our course, most of them became Android developers_
 <br><br>[YouTube Link](https://www.youtube.com/playlist?list=PLjLCGE4bVpHChlptwNJW3is1lvO5wxFBu)
 
 
