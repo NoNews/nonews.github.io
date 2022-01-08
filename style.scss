@@ -22,7 +22,7 @@ body {
   background: #2B2B2B;
   font: 18px/1.4 $helvetica;
 //   color: $darkGray;
-  color: #A9B7C6	
+  color: #A9B7C6;	
 }
 
 .container {
@@ -34,7 +34,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+//   color: $darkerGray;
+  color: #A9B7C6;
   font-weight: bold;
 
   line-height: 1.7;
