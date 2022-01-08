@@ -4,8 +4,6 @@ title: Blog
 output: html_document
 permalink: /blog/
 ---
-
-
 <br>2021-12-17 [Ui testing or Screenshot testing?](https://android-ui-testing.github.io/Cookbook/basics/ui_tests_vs_snapshot_tests/), _UI Testing Cookbook, co-author_
 <br>2021-12-06 [How to deal with Network in UI tests?](https://android-ui-testing.github.io/Cookbook/practices/network/), _UI Testing Cookbook_
 <br>2021-12-06 [UI testing basics](https://android-ui-testing.github.io/Cookbook/basics/ui_testing/), _UI Testing Cookbook, co-author_
