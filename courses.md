@@ -8,8 +8,7 @@ permalink: /courses/
 ## Android Academy: What's new in Android 11
 <br> **Period:** JUNE 2020 - SEP 2020
 <br>**Role:** Co-organizer, lector _(together with Yonatan Levin, Dmitry Movchan, Pavel Shegelskiy)_
-<br>**Description:** _Free course about Android 11 features. 5 online lectures
-
+<br>**Description:** _Free course about Android 11 features. 5 online lectures_
 <br><br>[YouTube Link](https://www.youtube.com/playlist?list=PLjLCGE4bVpHBMG6OMzd9Yaed06YjBz8ct)
 
 ## Android Academy: Advanced
