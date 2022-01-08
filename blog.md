@@ -12,7 +12,7 @@ permalink: /blog/
 [UI Testing CookBook: How to deal with Network?](https://android-ui-testing.github.io/Cookbook/practices/network/)
 [UI Testing CookBook: Emulator setup](https://android-ui-testing.github.io/Cookbook/practices/emulator_setup/)
 [UI Testing CookBook: Emulator vs Real Device](https://android-ui-testing.github.io/Cookbook/practices/emulator_vs_real_device/)
-[UI Testing CookBook: Test Runners Review](https://android-ui-testing.github.io/Cookbook/practices/test_runners_review/)
+
 
 [UI Testing CookBook: Ui testing or Screenshot testing?](https://android-ui-testing.github.io/Cookbook/basics/ui_tests_vs_snapshot_tests/)
 [UI Testing CookBook: Screenshot testing basics](https://android-ui-testing.github.io/Cookbook/basics/screenshot_testing/)
@@ -22,6 +22,8 @@ permalink: /blog/
 
 
 
+<br>2021-10-30 [Page Object Pattern](https://android-ui-testing.github.io/Cookbook/practices/test_runners_review/) _UI Testing Cookbook, co-author_
+<br>2021-10-30 [Where to run UI tests?](https://android-ui-testing.github.io/Cookbook/practices/test_runners_review/) _UI Testing Cookbook_
 <br>2021-10-27 [Instrumented testing in Android](https://android-ui-testing.github.io/Cookbook/basics/instrumented_testing_basics/) _UI Testing Cookbook_
 <br>2021-10-25 [Efficient state clearing in UI tests](https://android-ui-testing.github.io/Cookbook/practices/state_clearing/) _UI Testing Cookbook_
 <br>2021-02-15 [How RxJava chain actually works](https://proandroiddev.com/how-rxjava-chain-actually-works-2800692f7e13) _ProAndroidDev_
