@@ -9,6 +9,7 @@ permalink: /talks/
 <br>2021-10-28 [Droidcon London: Where and how to run UI tests?](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021)
 <br>2021-04-20 [Podlodka Crew: RxJava and Kotlin Flow on maximum](https://www.youtube.com/watch?v=rzWsDfOfBb0)
 <br>2020-11-13 [Mobius: Badass data source: Offline-mode in a few lines of code](https://www.youtube.com/watch?v=PGbzchLBvL4)
+<br>2020-10-14 [Podlodka: Public Android Interview](https://www.youtube.com/watch?v=31NpXIhEnHQ&list=PLNSmyatBJig7gbQrxxr7yaVJvYFegq3Fe&index=6&t=6s)
 <br>2020-09-18 [Yandex Meetup: Is it possible to survive without MVP/MVVM/MVI?](https://www.youtube.com/watch?v=YwMdge6ze0s)
 <br>2020-08-04 [Android Academy: Introduction to Jetpack Startup and new Activity Result API](https://www.youtube.com/watch?v=8hZLlXNZo_o)
 <br>2020-04-12 [Podlodka: RecyclerViewBased Architecture](https://www.youtube.com/watch?v=PWpYBqr1u0w&list=PLNSmyatBJig5V7DxiS7gpomMO7mfwEo_B&index=11)
