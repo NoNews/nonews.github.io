@@ -16,7 +16,7 @@ permalink: /talks/
 <br>2019-09-21 [Mobifest: Unidirectional Android Architecture](https://www.youtube.com/watch?v=IFj-ptrQ6ho&)
 <br>2019-09-20 [Android Academy: Advanced Architecture](https://www.youtube.com/watch?v=in0FUAbYaIU&t=1s)
 <br>2019-08-08 [RSCONF: UX as a developer's responsibility](https://www.youtube.com/watch?v=muqcNAVJuvc)
-<br>2019-07-09 [GDK Moscow: UX panel discussion](https://www.youtube.com/watch?v=Xf1zLON2aKc)
+<br>2019-07-09 [GDG Moscow: UX panel discussion](https://www.youtube.com/watch?v=Xf1zLON2aKc)
 <br>2019-07-04 [Mobifest meetup: UX which we deserved](https://team.cft.ru/events/120)
 <br>2019-05-20 Google I/O extended, KaspesrskyLab: What's new in the UI
 <br>2019-04-22 [AppsConf: UX as a developer's responsibility](https://www.youtube.com/watch?v=odD5C4F2vas&t=1s)
