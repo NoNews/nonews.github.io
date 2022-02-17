@@ -4,6 +4,8 @@ title: Talks
 output: html_document
 permalink: /talks/
 ---
+
+<br>2022-02-13 [Public Android Interview](https://www.youtube.com/watch?v=H-rGwemRl4A)
 <br>2021-12-04 [Ya Talks: Where and how to run UI tests](https://www.youtube.com/watch?v=0AQlKbskhkM&t=4256s), [Slides](https://speakerdeck.com/nonews/gdie-i-kak-proghoniat-ui-tiesty)
 <br>2021-11-15 [Android Academy: UI testing adoption: Problems & Solving](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h)
 <br>2021-10-28 [Droidcon London: Where and how to run UI tests?](https://www.droidcon.com/2021/11/16/where-and-how-to-run-ui-tests/), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-london-2021)
