@@ -5,6 +5,8 @@ output: html_document
 permalink: /talks/
 ---
 
+<br>2022-03-31 [Technical interview with Senior Android Engineer](https://www.youtube.com/watch?v=ZuZ89Cfj_jQ)
+<br>2022-03-21 [RxJava in a nutshell](https://www.youtube.com/watch?v=stO47lv6Yp0), [Slides](https://speakerdeck.com/nonews/rxjava-in-a-nutshell)
 <br>2022-02-13 [Public Android Interview](https://www.youtube.com/watch?v=H-rGwemRl4A)
 <br>2021-12-04 [Ya Talks: Where and how to run UI tests](https://www.youtube.com/watch?v=0AQlKbskhkM&t=4256s), [Slides](https://speakerdeck.com/nonews/gdie-i-kak-proghoniat-ui-tiesty)
 <br>2021-11-15 [Android Academy: UI testing adoption: Problems & Solving](https://www.youtube.com/watch?v=6XW6T0QOPpc), [Slides](https://drive.google.com/drive/folders/1yy0moohPv2l1PE7wj5h_VodcbzURzW5h)
