@@ -4,7 +4,7 @@ layout: default
 
 Hi.
 
-I’m Alexey, Android Softeare Engineer based in London. In 2022, I became a Google Developer Expert for Android technology.
+I’m Alexey, Android Software Engineer & GDE based in London.
 
 <br>I work at Revolut where I take care of a platform-specific domain and developer experience: Build time & Gradle, CI/CD, Testing tools and common approaches & processes.
 
