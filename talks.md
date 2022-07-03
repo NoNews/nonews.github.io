@@ -7,7 +7,7 @@ permalink: /talks/
 
 <br>2022-04-25 [Android Makers Paris: Where and how to run UI tests?](https://www.youtube.com/watch?v=FNDrZfq0yCE), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-lisbon-and-android-makers-paris)
 <br>2022-04-22 [Droidcon Lisbon: Where and how to run UI tests?](https://www.lisbon.droidcon.com/speaker/alexey-bykov), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-lisbon-and-android-makers-paris)
-<br>2022-04-10 [Public Android Interview (2) ](https://www.youtube.com/watch?v=ZuZ89Cfj_jQ](https://www.youtube.com/watch?v=YHj0HwqU8j8)
+<br>2022-04-10 [Public Android Interview (2) ](https://www.youtube.com/watch?v=YHj0HwqU8j8)
 <br>2022-03-31 [Technical interview with Senior Android Engineer](https://www.youtube.com/watch?v=ZuZ89Cfj_jQ)
 <br>2022-03-21 [RxJava in a nutshell](https://www.youtube.com/watch?v=stO47lv6Yp0), [Slides](https://speakerdeck.com/nonews/rxjava-in-a-nutshell)
 <br>2022-02-13 [Public Android Interview](https://www.youtube.com/watch?v=H-rGwemRl4A)
