@@ -4,7 +4,7 @@ title: Talks
 output: html_document
 permalink: /talks/
 ---
-
+<br>2022-08-09 [Lead Android Engineer Interview ](https://www.youtube.com/watch?v=5k7dfoOgngg)
 <br>2022-04-25 [Android Makers Paris: Where and how to run UI tests?](https://www.youtube.com/watch?v=FNDrZfq0yCE), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-lisbon-and-android-makers-paris)
 <br>2022-04-22 [Droidcon Lisbon: Where and how to run UI tests?](https://www.lisbon.droidcon.com/speaker/alexey-bykov), [Slides](https://speakerdeck.com/nonews/where-and-how-to-run-ui-tests-droidcon-lisbon-and-android-makers-paris)
 <br>2022-04-10 [Public Android Interview (2) ](https://www.youtube.com/watch?v=YHj0HwqU8j8)
