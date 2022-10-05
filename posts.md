@@ -4,7 +4,8 @@ title: Posts
 output: html_document
 permalink: /posts/
 ---
-
+<br>2022-07-23 [Stop using RecourseProvider in ViewModel (rus)](https://telegra.ph/Hvatit-ispolzovat-ResourceProvider-vo-ViewModel-07-23)
+<br>2022-07-12 [About manifest and Android 12(rus)](https://telegra.ph/Nemnogo-pro-Manifest--Android-12-07-09)
 <br>2022-06-25 [Gradle Enterprise & A/B Tests(rus)](https://telegra.ph/Gradle-Enterprise--AAB-Tests-06-25)
 <br>2022-02-16 [Kotlin Flow in a nutshell](https://medium.com/proandroiddev/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 <br>2021-12-17 [Ui testing or Screenshot testing?](https://android-ui-testing.github.io/Cookbook/basics/ui_tests_vs_snapshot_tests/), _Co-author_
